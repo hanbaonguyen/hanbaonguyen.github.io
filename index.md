@@ -16,6 +16,4 @@ My research interests lie at the intersection of My research interests lie at th
 - **[Apr. 2020]** Two of my posters on adaptive autonomy in human-AI teaming are accepted to HFES ASPIRE 2025.
 - **[Aug. 2024]** Started Ph.D. journey at Clemson University BIGCAT Lab! 🎓
 
-{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
