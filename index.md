@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I'm Han 👋 I'm a second-year Ph.D. student in Human-Centered Computing at Clemson University, BIGCAT Research Group (Advisor: <a href="https://chrisflathmann.com/index.html"> Dr. Christopher Flathmann </a>). Prior to graduate school, I received a BSc in Visual Communication Technology at Bowling Green State University.
+Hi, I'm Han 👋 I'm a second-year Ph.D. student in Human-Centered Computing at Clemson University, BIGCAT Research Group (Advisor: <a href="https://chrisflathmann.com/index.html"> Dr. Christopher Flathmann </a>). Prior to graduate school, I received a B.Sc. in Visual Communication Technology at Bowling Green State University.
 
 My first name is pronounced somewhat like “Hun” in English with a gentle rising tone, the name comes from Vietnamese. In my free time, I enjoy playing badminton and painting.
 
