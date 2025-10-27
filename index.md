@@ -10,7 +10,7 @@ My first name is pronounced somewhat like “Hun” in English with a gentle ris
 
 ## Research Interests
 
-My research lies at the intersection of **human-centered computing** and **artificial intelligence (AI)**, with a focus on AI ownership in human-AI teaming. I study how people build trust, share responsibility, and balance control when working with AI systems. By exploring the sweet spot between over-reliance and under-reliance, my work aims to inform the design of responsible, human-centered AI solutions that enhance collaboration and address real-world challenges.
+I focus on **responsible AI** and **human–AI teamwork**. I’m particularly interested in designing AI and training humans for responsible adoption, understanding how people adapt to roles and workflows with AI teammates, and ensuring that AI teammates are ethical, transparent, and accountable. My goal is to strengthen trust and preserve human expertise in real-world settings.
 
 <!-- ## News
 - **[Oct. 2025]** Attended HFES 2025 in Chicago and presented two posters on adaptive autonomy in human-AI teaming
