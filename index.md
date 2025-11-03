@@ -10,7 +10,7 @@ My first name is pronounced somewhat like “Hun” in English with a gentle ris
 
 ## Research Interests
 
-I focus on **responsible AI** and **human–AI teamwork**. I’m particularly interested in designing AI and training humans for responsible adoption, understanding how people adapt to roles and workflows with AI teammates, and ensuring that AI teammates are ethical, transparent, and accountable. My goal is to strengthen trust and preserve human expertise in real-world settings.
+I focus on **responsible AI** and **human–AI interaction**. I’m particularly interested in designing AI and training humans for responsible adoption in human-AI teaming, improving human-AI workflows for responsible AI work, and understanding how people adapt to roles and workflows with AI teammates.
 
 <!-- ## News
 - **[Oct. 2025]** Attended HFES 2025 in Chicago and presented two posters on adaptive autonomy in human-AI teaming
