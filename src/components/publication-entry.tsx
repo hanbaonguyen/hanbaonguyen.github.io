@@ -22,7 +22,7 @@ export function PublicationEntry({
       )}
       <div className="flex flex-col flex-1">
         <div className="flex flex-row gap-4 items-center mb-2">
-          {(publication.conference || publication.year) && <p className="text-xs text-zinc-500 leading-relaxed">
+          {(publication.conference || publication.year) && <p className="text-sm text-zinc-500 leading-relaxed">
             {publication.conference} {publication.year}
           </p>}
           {publication.status && (
