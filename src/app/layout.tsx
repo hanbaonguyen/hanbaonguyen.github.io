@@ -31,7 +31,14 @@ export const metadata: Metadata = {
   title: customMetadata.title || aboutMe.name,
   description: customMetadata.description || aboutMe.description,
   icons: {
-    icon: "/favicon.png",
+    icon: [
+      { url: "/favicon.ico?v=flower-20261005", type: "image/x-icon" },
+      { url: "/favicon-16x16.png?v=flower-20261005", sizes: "16x16", type: "image/png" },
+      { url: "/favicon-32x32.png?v=flower-20261005", sizes: "32x32", type: "image/png" },
+    ],
+    apple: [
+      { url: "/apple-touch-icon.png?v=flower-20261005", sizes: "180x180", type: "image/png" },
+    ],
   },
 };
 
