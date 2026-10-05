@@ -27,7 +27,6 @@ export const aboutMe: AboutMe = {
   email: "hann@clemson.edu",
   imageUrl: "/images/han.jpg",
   googleScholarUrl: "https://scholar.google.com/citations?user=dvIKKKcAAAAJ&hl=en",
-  githubUsername: "hanbaonguyen",
   linkedinUsername: "hannguyen301",
   cvUrl: "/Han-Nguyen-CV.pdf",
   institutionUrl: "https://www.clemson.edu/",
