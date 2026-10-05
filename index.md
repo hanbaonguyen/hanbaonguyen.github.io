@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-Hi, I'm Han 👋 I'm a second-year Ph.D. student in Human-Centered Computing at Clemson University, BIGCAT Research Group (Advisor: <a href="https://chrisflathmann.com/index.html"> Dr. Christopher Flathmann </a>). Prior to graduate school, I received a B.Sc. in Visual Communication Technology at Bowling Green State University.
+Hi, I'm Han 👋 I am a 3rd-year Ph.D. student in Human-Centered Computing at Clemson University. I am advised by <a href="https://chrisflathmann.com/index.html"> Dr. Christopher Flathmann </a>) and a member of BIGCAT Research Lab. Prior to graduate school, I received a B.Sc. in Visual Communication Technology at Bowling Green State University.
 
 ## Research Interests
 
-I focus on **responsible AI** and **human–AI interaction**. I’m particularly interested in designing AI and training humans for responsible adoption in human-AI teaming, improving human-AI workflows for responsible AI work, and understanding how people adapt to roles and workflows with AI teammates.
+I am a Human-Computer Interaction (HCI) researcher interested in **responsible AI** and **human–AI interaction**. I’m particularly interested in designing AI and training humans for responsible adoption in human-AI teaming, improving human-AI workflows for responsible AI work, and understanding how people adapt to roles and workflows with AI teammates.
 
 <!-- ## News
 - **[Oct. 2025]** Attended HFES 2025 in Chicago and presented two posters on adaptive autonomy in human-AI teaming
